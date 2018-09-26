@@ -74,6 +74,9 @@ Operational definition - which is a description of a property in concrete measur
       * often difficult to obtain a complete description of all variable that influence behavior
    * **Ecological Validity** (*EcoV*): A study has high EcoV if its methods, materials and setting closely approximate the real-world in which a target behavior is being examined.
    * **External Validity** (*ExtV*): A study has high ExtV if its finding generalize to circumstances beyond the research setting
+
+   #difference between the EcoV and ExtV
+   Ecological validity allows the study to in settings and situations in which it is exposed to the real world situations, where the studying would naturally occur. External validity is where the results of the study is able to be generalized through the population, environmental and temporal. 
 ### 3. Survey/Questionnaire Study
    * a method of ascertaining the self-reported attitudes, emotions, preferences, behaviors, habits, etc. of individuals or of groups of individuals
    * Advantage: 
