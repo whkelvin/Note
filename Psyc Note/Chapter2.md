@@ -38,16 +38,23 @@ Operational definition - which is a description of a property in concrete measur
 
 # Observer Bias
 * seeing what is expected (expectation can influence observation) (expectation can influence reality)
-## ways to prevent this..
+
+### Ways to prevent this...
 * Double-blind - the truth is hidden from both observer and object being observed.
 
 # Confirmation Bias
 * the tendency to look for evidences that support one's hypothesis
 
 # Statistic 
+  ## Frequency Distribution
+  - a graphic representation of measurements arranged by the number of times each measurement was made
+
 * Mode - the value that appears most frequently
 * mean - the overall average
 * Median - the value in the middle
+* Range - the max measured value - the min measured value
+* Standard Deviation - the average difference between a measured data set and its mean
+
 
 ## 9/24 In Class-----------
 ## Research Strategies
@@ -69,7 +76,7 @@ Operational definition - which is a description of a property in concrete measur
    * **External Validity** (*ExtV*): A study has high ExtV if its finding generalize to circumstances beyond the research setting
 ### 3. Survey/Questionnaire Study
    * a method of ascertaining the self-reported attitudes, emotions, preferences, behaviors, habits, etc. of individuals or of groups of individuals
-   * Adv: 
+   * Advantage: 
       * easy, cheap, quick to obtain large amount of data
       * can be used to learn about any type of issue/question
       * may be high in ecological validity
@@ -86,5 +93,30 @@ Operational definition - which is a description of a property in concrete measur
       can be used address nearly any events
       high in eco validity
    * Limitation : cannot provide info about cause effect links
+
+  #### Method:
+   1. Find variables (properties whose values can vary across individuals or over time)
+   2. Make series of measurement
+   3. Find pattern of covariation
+      - Positive Correlation - more is more or less is less
+      - Negative Correlation - less is more of more is less
+  #### Third Variable Problem
+   - two variable are correlated only because each is causally related to a third variable   
+        
+  ##### Ways to prevent this:
+  - Matched Samples - participants have an identical variable
+  - Matched Pairs - participants share a third variable on average
+  #### Correlation Coefficient(r)
+  if r = 1 => perfect positive correlation
+  if r == 0 => no correlation
+  if r = -1 => perfect negative correlation
+
 ### 5. Experimental Study
-  a research method 
+  - Manipulation of variable to see how one change(independent variable) as a result of another( dependent variable )
+  - control group vs experimental group
+
+  #### Self Selection 
+  - a problem when anything about a participant determines whether he or she will be included in the experimental group
+  #### Random Assignment 
+  - let change decide who will be in control/experiment group
+
