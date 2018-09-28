@@ -115,6 +115,7 @@ Operational definition - which is a description of a property in concrete measur
   if r = -1 => perfect negative correlation
 
 ### 5. Experimental Study
+<<<<<<< HEAD
   - Manipulation of variable to see how one change(independent variable) as a result of another( dependent variable )
   - control group vs experimental group
 
@@ -122,4 +123,30 @@ Operational definition - which is a description of a property in concrete measur
   - a problem when anything about a participant determines whether he or she will be included in the experimental group
   #### Random Assignment 
   - let change decide who will be in control/experiment group
+=======
+  a research method 
+
+
+# Variables in Experiments
+  - Independent: manipulated by experimenter
+  - Dependent: measured in the experiment
+  - Control: held constant
+  - Noise/nuisance/extraneous: variables that may have a random influence on the DV
+  - Confounding: variables that have a systematic/selective influence on the DV eg. the order of an image shown, order of question asked...
+    * counterbalancing
+    - remove confounding influence by randomizing stimulus order (transform confounding variables into noise variables)
+## What is a noise/nuisance variable?
+- a variable that has random effects on the result
+
+## What is a confound variable?
+- it has different effects on different part of the experiment.
+
+## Internal Validity
+- concerns whether an experiment permits us to draw causal conclusion
+- threatened by confounding variables
+- sample too small or not representative
+- demand characteristics
+- placebo effect
+- experimenter bias
+>>>>>>> "add in more about chp2"
 
