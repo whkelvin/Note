@@ -115,7 +115,6 @@ Operational definition - which is a description of a property in concrete measur
   if r = -1 => perfect negative correlation
 
 ### 5. Experimental Study
-<<<<<<< HEAD
   - Manipulation of variable to see how one change(independent variable) as a result of another( dependent variable )
   - control group vs experimental group
 
@@ -123,7 +122,6 @@ Operational definition - which is a description of a property in concrete measur
   - a problem when anything about a participant determines whether he or she will be included in the experimental group
   #### Random Assignment 
   - let change decide who will be in control/experiment group
-=======
   a research method 
 
 
@@ -148,5 +146,78 @@ Operational definition - which is a description of a property in concrete measur
 - demand characteristics
 - placebo effect
 - experimenter bias
->>>>>>> "add in more about chp2"
 
+# Measurement Scale
+    Measurement is the assignment of numbers or labels to objects or events in a systemic fashion
+
+  ## Four levels of measurement
+  1. Nominal
+  2. Ordinal
+  3. Interval
+  4. Ratio  
+
+    Need to know 
+      - the measurement principle involved in each scale
+      - example for each scale
+      - arithmetic operations which are permissible for each scale
+      - statistics that are appropriate for
+  
+  ## Nominal/Naming: 
+      People objects or events are grouped as having the same value of some attribute
+
+      - Counting
+  ## Ordinal/Ranking:
+       People, objects or events with a higher scale value have more of some attribute
+
+       - Counting and Comparisons( < and > )
+  ## Interval:
+      Intervals between adjacent scale values are equal with respect the attribute being measured
+
+      - Counting/Comparison/Addition/Subtraction
+      - Example: IQ score, Personality scale scores
+
+  ## Ratio:
+      Same as Interval and there is a rational zero point for the scale
+
+      - Counting/Comparison/Addition/Subtraction/Multiplication/Division
+      - Example: Kelvin scale, weight, income in dollars, height, weight       
+
+# Types of Statistics
+  ## Descriptive Stat:
+      Simple descriptions of what the data show
+
+      Main Types of Descriptors
+          - Type or shapes of the distribution
+          - The central tendency of the distribution (mean median and mode)
+          - The dispersion of the distribution (spread of value in a distribution)   
+
+## The Normal Distribution
+ - Symmetrical   
+ - Mean/Median/Mode in the middle
+
+## Bi/MultiModal Distribution
+ - Multiple peak
+  
+## Skewed Distribution
+  - Skewed to left (negative)
+  - Skewed to right (positive)
+
+### Ceiling Effect:
+    When scores are bunched up against the top of the scale
+
+    People with potential to reach higher scale are cut off by the maximum
+
+### Floor Effect:
+    When scores are bunched up against the bottom of the scale
+
+### Measure Of Central Tendency
+- Mean
+
+$$ Mean = \sum \frac{x}{n} $$ 
+
+- Median:The exact middle of a set of values   
+
+- Mode :The value that occurs most frequently in a set of data
+    
+## Inferential Stat: 
+      A collection of procedures for making decisions about hypothesis
