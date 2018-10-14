@@ -221,3 +221,43 @@ $$ Mean = \sum \frac{x}{n} $$
     
 ## Inferential Stat: 
       A collection of procedures for making decisions about hypothesis
+
+## Measures of Dispersion
+Range - highest minus the lowest value in a set of values
+
+Standard Deviation
+
+ $$ SD = \sqrt{\frac{\sum{(x - mean)^2}}{n-1}}$$
+
+- Do not compare graphs that does not have the same scale
+- Goal of research is to determine whether experimental group is difference between two distributions is due to chance (H0) or due to the IV (H1)
+- if the distribution graphs for control group and experimental group overlaps, then some of the result can be due to chance
+- ways to reduce overlaps:
+    - manipulate the IV more
+    - reduce noise variables
+
+## Working with Data
+1. What is the scale?
+2. Shape of the distribution
+3. Height of the distribution
+
+- two peaks ex: sex, etc...
+
+## Correlation
+- identify the linear relationship between two variables
+
+### Correlation Coefficient
+
+$$ -1 <= CC <= 1 $$
+
+- CC = 0 -> no indicates no relation ship
+- CC > 0 -> positive correlation
+- CC < 0 -> negative correlation
+- The absolute value of CC tells us the strength of the correlation
+
+### Non Linear Relationships
+- zero correlation can mean the relationship is not linear
+ 
+### Research Ethics
+- all research with humans or animals must undergo an ethics review
+
