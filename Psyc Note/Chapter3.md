@@ -51,7 +51,7 @@
 - Back to resting potential
 
 ## Myelin Sheath
-- nodes of Ranvier - break points between lumps of myeline sheath to increase conduction speed
+- nodes of Ranvier - break points between lumps of myelin sheath to increase conduction speed
 - The jumping of charges between nodes is called saltatory conduction
 
 ## Axon
@@ -207,8 +207,20 @@
 
 #### Hemisphere
 - Left
+    - logical
+    - sequential
+    - rational
+    - analytical
+    - objective
+    - look at parts
 - Corpus Callosum: connects the two hemisphere and handles communication across the hemisphere
 - Right
+    - Random
+    - intuitive
+    - holistic
+    - synthesizing
+    - subjective
+    - looks at wholes
 
 #### Lobes
 ##### Frontal Lobe
@@ -226,12 +238,43 @@
 - hearing and language
 - primary auditory cortex
 
-### Association areas
+### Association Areas
 - composed of neurons that help provide sense and meaning to information registered in the cortex
 
 ### Mirror Neurons
 - active when an animal performs a behavior, and when an animal watches other animals perform the same task
 
+### Broca's Area
+- in left frontal lobe, language generation
 
+### Wernicke's Area
+- in upper left temporal lobe, language comprehension
+
+### --------------
+### Methods for Revealing Brain Behavior Links
+
+#### CT Scan (Computerized axial tomography scan)
+- takes a series of x ray photos
+- does not show functions of brain
+
+#### MRI (Magnetic Resonance Imaging)
+- uses a strong magnetic field to line up the nuclei of specific molecules in the brain tissue
+- higher resolution than CT scan
+
+##### Diffusion Tensor Imaging 
+- track movement of white matter diffusion
+
+#### PET Scan (Positron Emission Tomography)
+- radio active substance is injected into blood stream, the part require greater blood flow lights up
+
+#### fMRI (functional MRI)
+- detects the difference between oxygenated hemoglobin and deoxygenated hemoglobin 
+- specific parts light up 
+
+#### TMS
+- uses magnetic field in order to temporarily enhance or depress activity in a specific area of the brain
+
+#### EEG & ERP (Event Related Potentials)
+- electroencephalogram
 
 

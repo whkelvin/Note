@@ -1,4 +1,3 @@
-# 2.1 
 # Dogmatism
  - people’s tendency to cling to assumptions.
 
