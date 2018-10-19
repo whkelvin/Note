@@ -8,8 +8,8 @@
 - brings psyc to North America
 - The principles of psychology
 
-### 
-- Behaviour - observable actions of human beings and non human animals.
+### Behaviour 
+- observable actions of human beings and non human animals.
 
 ### Plato and Aristotle
 
@@ -37,8 +37,10 @@
 ### Wilhelm Wundt
 - Open first psychology lab
 - Focus on “consciousness”  a person’s subjective experience of the world and the mind.
-- usesintrospection
-- study under Hermann Von Helmholtz Edward Titchener 
+- uses introspection
+- study under Hermann Von Helmholtz 
+
+### Edward Titchener 
 - Wundt’s student studying consciousness
 - All consciousness is based on 3 elemental states, sensations, images and affections
 
@@ -48,7 +50,7 @@
 - uses “introspection”, the subjective observation of one’s own experience
 - fail because psychologists could not agree on the basic element of conscious  experience, reliability, repeatability of experiment, incomplete 
 
-### Functionalism (Silliam James) 
+### Functionalism (William James) 
 -  the study of how mental processes enable people to adapt to their environment (built on Darwin’s contributions)
 
 ### Gestaltism 
@@ -141,7 +143,6 @@ Norman Triplett (bicycle observation, fishing children)
 ### Classical conditioning 
 - occurs when you learn to associate two different stimuli 
 
-### Palov 
-- dog salivating when owner shows up
 ### Operant conditioning 
--Operant conditioning involves changing voluntary behaviors 
+- Operant conditioning involves changing voluntary behaviors 
+- method of learning that occurs through rewards and punishments for behavior. 

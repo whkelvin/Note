@@ -9,13 +9,17 @@
  * Hypothesis
    - a falsifiable prediction made from a theory
    - must come in pair,H0
-   (null hypothesis), H1(alternate hypothesis)
+   (null hypothesis):something you are trying to disprove, H1(alternate hypothesis): the opposite of null hypothesis
    - Example
      - Does yoga improve the ability to concentrate?
+        null: Doing yoga does not improve the ability to concentrate
+        alternate: Doing yoga does improve the ability to concentrate 
 
 # Empirical Method 
 - a set of rules and techniques for observation
-Operational definition - which is a description of a property in concrete measurable terms.
+
+# Operational definition 
+- which is a description of a property in concrete measurable terms.
 
 # Instrument
  - anything that can detect the condition to which an operational definition refers.
@@ -29,7 +33,7 @@ Operational definition - which is a description of a property in concrete measur
 # Demand Characteristics
 * are those aspects of an observational setting that cause people to behave as they think someone else wants or expect
 
-#Naturalistic Observation
+# Naturalistic Observation
 * is a technique for gathering scientific information by unobtrusively observing people in their natural environments.
 ## Ways to achieve this:
 * privacy & control
@@ -62,7 +66,7 @@ Operational definition - which is a description of a property in concrete measur
    * detailed study of one individual, group, device, event, etc.
    * Advantage: gain ideas, insight
    * Limitation: useless for testing theories, study may not be replicable
-### 2. Naturalistic Observation Study  
+### 2. Naturalistic Observation Study 
    * observing/recording behavior in naturally occurring situations, without manipulating/controlling the situation
    * Advantage: 
       * high in ecological validity (shows behavior in the wild)
@@ -74,7 +78,7 @@ Operational definition - which is a description of a property in concrete measur
    * **Ecological Validity** (*EcoV*): A study has high EcoV if its methods, materials and setting closely approximate the real-world in which a target behavior is being examined.
    * **External Validity** (*ExtV*): A study has high ExtV if its finding generalize to circumstances beyond the research setting
 
-   #difference between the EcoV and ExtV
+ # difference between the EcoV and ExtV
    Ecological validity allows the study to in settings and situations in which it is exposed to the real world situations, where the studying would naturally occur. External validity is where the results of the study is able to be generalized through the population, environmental and temporal. 
 ### 3. Survey/Questionnaire Study
    * a method of ascertaining the self-reported attitudes, emotions, preferences, behaviors, habits, etc. of individuals or of groups of individuals

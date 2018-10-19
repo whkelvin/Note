@@ -1,11 +1,17 @@
 ### Sensation 
 - Stimulation of sense organ
+- the processing/activity resulting from the simulation of a sense organ
 
 ### Perception 
 - The organization, identification, and interpretation of a sensation
+- use sensory input and existing knowledge to construct an interpretation of inputs
+- top-down: analysis/ processing that is guided by concepts, expectations, context, by existing knowledge
+- interactive (bottom-up): analysis/processing that is guided by both data from the environment and existing knowledge&concepts
 
 ### Transduction 
 - When sensors in the body convert physical signal to neural signals and send them to the CNS
+- the process o converting physical energy into neural signals
+
 ### PsychoAnalysis
 - Method that measure someone's sensitivity to strength of the stimulus
 
