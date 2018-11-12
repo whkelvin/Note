@@ -12,20 +12,47 @@
 - When sensors in the body convert physical signal to neural signals and send them to the CNS
 - the process o converting physical energy into neural signals
 
-### PsychoAnalysis
+### Psychophysics
+- The study of how physical stimuli, the sensations associated with them, are translated into psychological experiences
 - Method that measure someone's sensitivity to strength of the stimulus
 
 ### Absolute Threshold
 - The minimal intensity needed to just barely detect a stimulus in 50% of the trials
 
 ### Just Noticeable Difference 
-- Minimal change in a stimulus that can just barely be detected (i am hungry cry and i am dying cry)
+- Minimal change in a stimulus that can just barely be detected (I am hungry cry and I am dying cry)
 
 ### Weber's Law
 - The just noticeable difference of a stimulus is a constant proportion despite variations in intensity
 
+- as a percentage increase instead of increase by interval values
+- dR = ?% * R
+
 ### Signal Detection Theory
 - The response to a stimulus depends both on a person's sensitivity to the stimulus in the presence o noise and on a person's decision criterion
+
+- assumes that the detection of signals involves decision processes
+
+- hit, correct negative, miss, false alarm
+
+
+#### Decision Criterion
+- how much evidence we need for yes/no responses?
+    - strength of signal
+    - sensitivity of system
+#### Decision Biases
+- what factors change (raise/lower) the decision criterion?
+    - cost/consequences of wrong decision
+    - expectations/preference
+
+### Waves
+#### Wavelength (Hue)
+- wavelength is the distance from the peak of one wave to the peak of another wave
+- color of light
+
+#### Intensity 
+- amplitude of the wave
+- brightness of light
 
 ### Sensory Adaptation 
 - Sensitivity of to prolonged stimulation tends to decline over time as an organism adapts to current condition
@@ -33,8 +60,9 @@
 ### Visual Acuity
 - The ability to see fine detail
 
+## The Eye
 ### Path of light into the eye
-1. Cornea: bend lights through pupil
+1. Cornea: bend lights through pupil (laser surgery reshape this part not the lens)
 2. Pupil: a hole for light to pass through
 3. Iris: the colored part that controls the amount of light to pass through 
 4. Retina: a layer of light sensitive tissue
@@ -42,7 +70,7 @@
 ### Accommodation
 - The Process by which the eye maintains a clear image on the retina (focus)
 
-### Light Detecting Cells
+### Light Detecting Cells (Photoreceptor)
 - Cones: detects color
 - Rods: sensitive at low-light 
 

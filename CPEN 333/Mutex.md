@@ -57,3 +57,5 @@ Resource is blocked when Semaphore < final
         -The rollercoaster will wait until 2 passenger have boarded
         - Each passenger will wait until they finish the ride before attempting to get off
         - New passengers will wait till the old passengers have got off
+
+## Event Synchronization

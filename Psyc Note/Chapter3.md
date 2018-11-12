@@ -37,7 +37,7 @@
 - the potential difference between the inside and outside of a neuron
 - negatively charged inside (K+ and A- <protein>), positively charged outside (Na+ and Cl-)
 - pump push Na out and pull K in
-- 70 mV
+- -70 mV
 
 ## Action Potential
 - an electric signal that is carried along the length of a neuron's axon to a synapse

@@ -142,7 +142,9 @@ Norman Triplett (bicycle observation, fishing children)
 
 ### Classical conditioning 
 - occurs when you learn to associate two different stimuli 
+- dog salivating when seeing the owner
 
 ### Operant conditioning 
 - Operant conditioning involves changing voluntary behaviors 
 - method of learning that occurs through rewards and punishments for behavior. 
+- reinforcement and punishment
